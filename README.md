@@ -1,2 +1,2 @@
 # Piscine_perso
-exercices piscine ecole 42 depuis la maison
+Ne vous inspirez pas de mes exercices pour passer votre piscine, la plupart sont justes mais ils se pourraient que certains ne soient pas si optimals que ca... De plus ils ne sont peut-etre plus a jour...
